@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-07",
+  "pages": 6,
+  "viewports": [
+    1280,
+    375
+  ],
+  "passed": [
+    "Local links and anchors, unique IDs",
+    "One h1 per page; catalogue only on Menu, checkout only on Order",
+    "No horizontal overflow or broken image elements",
+    "Search, categories, price sorting, empty result and reset",
+    "Product contents, add to cart, quantity update and cart total",
+    "Saved picks and night planner: matching and no-match states",
+    "Dorm D4 selection persists to Order; 3800 + 500 = 4300 KZT",
+    "Required fields; rejection of noon delivery; successful 23:30 demo confirmation",
+    "Night Owl bundle = 4700 KZT; Study Crew split four ways = 2025 KZT",
+    "Campus desk required fields and successful local completion",
+    "FAQ toggle and mobile navigation; Escape closes navigation",
+    "No browser console errors observed"
+  ],
+  "fixes": [
+    "Corrected Services text to reference the Order page",
+    "Clarified checkout privacy text",
+    "Changed Lunch to A meal in Night Owl plan",
+    "Changed ambiguous Share with N labels to For N",
+    "Restored Open navigation accessibility label after Escape"
+  ],
+  "limits": [
+    "Local Chromium browser check; not tested on physical iOS/Android devices",
+    "External deployment and real payment are outside this front-end demo"
+  ]
+}

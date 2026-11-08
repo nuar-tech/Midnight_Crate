@@ -1,0 +1,1 @@
+Built-in OpenAI Imagegen edit. Reference: user-selected illustrated night campus. Remove all website typography, navigation, buttons, numbers and shop lettering while preserving the exact indigo/lavender hand-painted scene, shop, moon, foliage, paths and warm windows. Asset used as illustrated-campus.webp; all interface text is HTML.

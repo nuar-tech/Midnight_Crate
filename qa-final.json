@@ -1,0 +1,92 @@
+[
+  {
+    "brokenImages": [],
+    "catalogues": 0,
+    "checkouts": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/index.html",
+    "width": 1280
+  },
+  {
+    "brokenImages": [],
+    "catalogues": 1,
+    "checkouts": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/menu.html",
+    "width": 1280
+  },
+  {
+    "brokenImages": [],
+    "catalogues": 0,
+    "checkouts": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/services.html",
+    "width": 1280
+  },
+  {
+    "brokenImages": [],
+    "catalogues": 0,
+    "checkouts": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/pricing.html",
+    "width": 1280
+  },
+  {
+    "brokenImages": [],
+    "catalogues": 0,
+    "checkouts": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/about.html",
+    "width": 1280
+  },
+  {
+    "brokenImages": [],
+    "catalogues": 0,
+    "checkouts": 1,
+    "h1": 1,
+    "overflow": false,
+    "page": "/order.html",
+    "width": 1280
+  },
+  {
+    "brokenImages": [],
+    "overflow": false,
+    "page": "/index.html",
+    "width": 375
+  },
+  {
+    "brokenImages": [],
+    "overflow": false,
+    "page": "/menu.html",
+    "width": 375
+  },
+  {
+    "brokenImages": [],
+    "overflow": false,
+    "page": "/services.html",
+    "width": 375
+  },
+  {
+    "brokenImages": [],
+    "overflow": false,
+    "page": "/pricing.html",
+    "width": 375
+  },
+  {
+    "brokenImages": [],
+    "overflow": false,
+    "page": "/about.html",
+    "width": 375
+  },
+  {
+    "brokenImages": [],
+    "overflow": false,
+    "page": "/order.html",
+    "width": 375
+  }
+]

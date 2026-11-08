@@ -1,0 +1,182 @@
+[
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/index.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 341
+  },
+  {
+    "catalogs": 1,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/menu.html",
+    "products": 11,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 341
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/services.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 341
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/pricing.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 341
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/about.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 341
+  },
+  {
+    "catalogs": 0,
+    "checkout": 1,
+    "h1": 1,
+    "overflow": false,
+    "page": "/order.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 341
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/index.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 698
+  },
+  {
+    "catalogs": 1,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/menu.html",
+    "products": 11,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 698
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/services.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 698
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/pricing.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 698
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/about.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 698
+  },
+  {
+    "catalogs": 0,
+    "checkout": 1,
+    "h1": 1,
+    "overflow": false,
+    "page": "/order.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 698
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/index.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 1163
+  },
+  {
+    "catalogs": 1,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/menu.html",
+    "products": 11,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 1163
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/services.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 1163
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/pricing.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 1163
+  },
+  {
+    "catalogs": 0,
+    "checkout": 0,
+    "h1": 1,
+    "overflow": false,
+    "page": "/about.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 1163
+  },
+  {
+    "catalogs": 0,
+    "checkout": 1,
+    "h1": 1,
+    "overflow": false,
+    "page": "/order.html",
+    "products": 0,
+    "style": "css/site-v5.css?v=2d47a052ae",
+    "width": 1163
+  }
+]
